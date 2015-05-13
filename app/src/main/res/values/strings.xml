@@ -2,5 +2,6 @@
     <string name="app_name">EXAMPLE_SQLITE01</string>
 
     <string name="hello_world">Hello world!</string>
-    <string name="action_settings">Settings</string>
+    <string name="action_settings">Lista Usuario</string>
+    <string name="title_activity_lista_">Lista_Activity</string>
 </resources>
